@@ -1,0 +1,24 @@
+Bootstrap - for front end deevlopment.
+--------------------------------------
+
+	id , when we are giving some style to a perticular element
+	classes, when we are giving style to a perticular group of elements. Classes multiple use karlo par id should be unique
+
+	Grid system
+	-----------
+		Bootstrap assumes a page to be divided into 12 grids.
+		(.col-xs-1) *12
+
+	Navigation bar (navbar) is used to make website responsive
+
+	Containers- yaha button wala rakhke dekha tha hamne
+	------------
+		container class, is used to put the item in the middle.
+		container-fluid, is used to used the total width of the page to put the items .
+
+	padding class, utilities-> spacing ->
+	------------
+		margin , container ke bahar(uppper ya neeche) spacing aa jaye......"container mt-4[mb-4][my-4(for both top and bottum)]", ml, mr, mx(left right both)
+		padding ..container ke ander se spacing aa jaye........"container pt-4"
+
+	Now we goona put a slider here, so ..components -> corousal(a slideshow component) ->
