@@ -1,10 +1,10 @@
 Bootstrap - for front end deevlopment.
 --------------------------------------
-
+	# hota hai id....and .(dot) hota hai class
 	id , when we are giving some style to a perticular element
 	classes, when we are giving style to a perticular group of elements. Classes multiple use karlo par id should be unique
 
-	Grid system
+	Grid system, so much to learn..
 	-----------
 		Bootstrap assumes a page to be divided into 12 grids.
 		(.col-xs-1) *12
@@ -22,3 +22,22 @@ Bootstrap - for front end deevlopment.
 		padding ..container ke ander se spacing aa jaye........"container pt-4"
 
 	Now we goona put a slider here, so ..components -> corousal(a slideshow component) ->
+
+	Now we gonna put three cards , we can select responsive image code through, responsive image->	
+
+	Now we will go to tables ...Contents -> tables ->
+
+	Now time for the Footer content
+
+	Forms ->
+		form-control class
+
+	fixed-bottom class, to set bottom in the bottom
+
+	jumbotron
+	Button, btn-outline-danger
+
+
+	components -> modal (pop up message)
+
+
